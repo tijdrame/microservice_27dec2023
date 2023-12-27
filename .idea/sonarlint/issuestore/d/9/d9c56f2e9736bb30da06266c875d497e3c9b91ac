@@ -1,0 +1,13 @@
+
+^
+java:S2094
+"BRemove this empty class, write its code or make it an "interface".(ªÿÔ8Ê¿Î•Á1
+]	java:S125"<This block of commented-out lines of code should be removed.(ù„è¿ûÿÿÿÿ8Ñ¿Î•Á1
+l
+java:S1128"ORemove this unused import 'org.springframework.beans.factory.annotation.Value'.(ìø›8Ñ¿Î•Á1
+
+java:S1128"]Remove this unused import 'org.springframework.cloud.context.config.annotation.RefreshScope'.(­¾î²ûÿÿÿÿ8Ò¿Î•Á1
+l
+java:S1128"ORemove this unused import 'org.springframework.web.bind.annotation.GetMapping'.(‡¡‰Ø8Ò¿Î•Á1
+u
+java:S1128"SRemove this unused import 'org.springframework.web.bind.annotation.RestController'.(±íþ¡þÿÿÿÿ8Ò¿Î•Á1
